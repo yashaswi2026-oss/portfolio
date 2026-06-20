@@ -1,0 +1,6 @@
+{
+  "name": "Studio Portfolio",
+  "description": "An interactively rich and premium design studio portfolio featuring a mockup parallax drift, draggable visual transformer, progress timeline path, and a magnetic fluid cursor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
